@@ -1,4 +1,4 @@
 cwp.daemon
 ==========
 
-Windoews daemon for lp24protocol
+Windows daemon for lp24protocol
